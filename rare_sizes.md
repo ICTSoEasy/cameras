@@ -27,3 +27,10 @@
 - Winds on and fires fine
 - Adjuster ring turns fine
 - I feel like they had to invent whole new cheapnesses of plastic for this - I love it.
+
+## Polaroid
+
+### Polaroid Land Camera 80B
+- Folds nicely
+- All seems to move as it should
+- No obvious issues with bellows
