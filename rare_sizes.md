@@ -15,10 +15,10 @@
 
 ## 101
 
-### Kodak Bulls Eye no2
+### <s>Kodak Bulls Eye no2
 - 1898 model
 - All seems to work as it should
-- Some beautiful woodwork inside!
+- Some beautiful woodwork inside!</s>
 
 ## 126
 
